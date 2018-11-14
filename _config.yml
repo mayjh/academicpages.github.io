@@ -83,7 +83,7 @@ author:
   bio              : "A quantitative psychologist by training, a data scientist by heart and by trade."
   location         : "Nashville, TN"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=F9Hf2RQAAAAJ&hl=en"
+  googlescholar    : https://scholar.google.com/citations?user=F9Hf2RQAAAAJ&hl=en
   email            :
   uri              :
   bitbucket        :
