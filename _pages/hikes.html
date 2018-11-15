@@ -1,0 +1,12 @@
+---
+layout: archive
+title: "Hikes"
+permalink: /hikes/
+author_profile: true
+---
+
+<p style="text-decoration:underline;"><a href="/hikemap.html">See a map of all the places I've trekked!</a></p>
+
+{% for post in site.hikes reversed %}
+  {% include archive-single-hike.html %}
+{% endfor %}
