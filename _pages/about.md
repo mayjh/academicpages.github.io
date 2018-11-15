@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! Welcome to my site. I am a quantitative psychologist by training, a data scientist by heart and by trade.
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi there! Welcome to my site. I am a research data scientist at axialHealthcare, where I build end-to-end machine learning tools to improve the well-being of patients in pain. I am interested in using advanced analytics tools to driving real-world impact.
+
+This site is powered by [one of my GitHub repositories](https://github.com/mayjh/mayjh.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository. The website automatically update when a new commit is made to the respository. This template was forked from [Academic Pages](https://github.com/academicpages/academicpages.github.io) by [Stuart Geiger](https://github.com/staeiou), which was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose. If you are interested in using my template, feel free to fork from it!
 
 A data-driven personal website
 ======
