@@ -1,8 +1,8 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Fiery Gizzard Trailhead, Tracy City, TN, USA",
+    35.262041,
+    -85.746334
   ],
   [
     "London, UK",
