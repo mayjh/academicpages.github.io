@@ -1,6 +1,6 @@
 var addressPoints = [
   [
-    "[Fiery Gizzard Trail](https://mayjh.github.io/hikes/2018-11-10-canal-loop-land-between-the-lakes), Tracy City, TN, USA",
+    "[Fiery Gizzard Trail](https://mayjh.github.io/), Tracy City, TN, USA",
     35.262041,
     -85.746334
   ],
