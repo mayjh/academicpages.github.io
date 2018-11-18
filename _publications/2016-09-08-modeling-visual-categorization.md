@@ -2,7 +2,7 @@
 title: "Modeling individual differences in visual categorization."
 collection: publications
 permalink: /publication/2016-09-08-modeling-visual-categorization
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'A review on modeling individual differences in visual categorization.'
 date: 2016-09-08
 venue: 'Visual Cognition'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/28154496'
