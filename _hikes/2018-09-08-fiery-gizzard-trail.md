@@ -4,7 +4,7 @@ collection: hikes
 type: "Fiery Gizzard Trail South Bound"
 permalink: /hikes/2018-09-08-fiery-gizzard-trail
 venue: "South Cumberland State Park"
-date: 2018-09-12
+date: 2018-09-08
 location: "Tracy City, TN"
 ---
 
