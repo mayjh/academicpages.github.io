@@ -2,7 +2,7 @@
 title: "Studying real-world perceptual expertise."
 collection: publications
 permalink: /publication/2014-07-18-real-world-expertise
-excerpt: 'We tested the facial-feature integration index, as defined in Gold, Mundy, and Tjan (2012).'
+excerpt: 'We provide a brief perspective on approaches, considerations, and challenges to studying real-world perceptual expertise.'
 date: 2014-07-18
 venue: 'Frontiers in Psychology'
 paperurl: '<p>https://www.ncbi.nlm.nih.gov/pubmed/25228169</p>'
