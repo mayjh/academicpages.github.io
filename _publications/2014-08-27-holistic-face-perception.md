@@ -4,11 +4,10 @@ collection: publications
 permalink: /publication/2014-08-27-holistic-face-perception
 excerpt: 'We tested the facial-feature integration index, as defined in Gold, Mundy, and Tjan (2012).'
 date: 2014-08-27
-venue: 'Psychonomic Bulletin & Review'
-paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/25228169'
+venue: 'Psychonomic Bulletin & Review' 
+paperurl: 'https://www.ncbi.nlm.nih.gov/pubmed/25228169' 
 citation: 'Shen, J., & Palmeri, T. J., (2014). The perception of a face can be greater than the sum of its parts. <i>Psychonomic Bulletin & Review</i>. 1-7. doi:10.3758/s13423-014-0726-y'
 ---
-
 We tested whether the facial-feature integration index, as defined in Gold, Mundy, and Tjan (2012), 
 would equal 1 when faces have a range of configurations
 mirroring the range of variability in real-world faces, using the
