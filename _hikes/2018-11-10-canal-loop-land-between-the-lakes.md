@@ -22,4 +22,4 @@ See below for some photos I took along the trail. See more photos at my [instagr
 
 ![Sunshine through the yellow leaves](/images/lbl_yellow.JPG)
 
-
+Thanks XY for the hike!
