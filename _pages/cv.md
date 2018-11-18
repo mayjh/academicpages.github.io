@@ -14,15 +14,13 @@ Quantitative psychologist with 8 years of data experience. Seeking to drive impa
 Experience
 ========
 
-* 2017-10 - present, **Research Data Scientist**
- * axialHealthcare
- * Lead projects to develop and operationalize end-to-end interpretable machine learning models to predict outcomes such as opioid overdose and relapse, using R, BigQuery, and Python. Improved both precision and sensitivity by more than 20%.
- * Established standard operating procedures for R&D practices via R packaging.
- * Write papers, blog posts, and conference abstracts to promote company image.
- * Lead local meetups and kaggle groups , including the Greater Nashville Healthcare Analytics meetup and the Data Science Nashville meetup. 
+* **2017-10 - present, Research Data Scientist, axialHealthcare**
+  * Lead projects to develop and operationalize end-to-end interpretable machine learning models to predict outcomes such as opioid overdose and relapse, using R, BigQuery, and Python. Improved both precision and sensitivity by more than 20%.
+  * Established standard operating procedures for R&D practices via R packaging.
+  * Write papers, blog posts, and conference abstracts to promote company image.
+  * Lead local meetups and kaggle groups , including the Greater Nashville Healthcare Analytics meetup and the Data Science Nashville meetup. 
 
-* 2012-08 - 2017-08, **Research and Teaching Assistant**
-  * Vanderbilt University 
+* **2012-08 - 2017-08, Research and Teaching Assistant, Vanderbilt University **
   * Model the mechanisms of individual differences in visual categorization, using JavaScript, CSS, Html, MySQL, R, JAGS, Python, and STAN.
   * Developed and evaluated the Vanderbilt Bird Expertise Test using the Item Response Theory, used JavaScript, CSS, Html, MySQL, R, and JAGS.
   * Authored 7 methodological and substantive papers (2 in revision, 1 manuscript), and 6 conference abstracts.
@@ -38,16 +36,16 @@ Experience
 Education
 ========
 
-* 2012-08 - 2018-05, Ph.D. of Psychology, Vanderbilt University
- * Major: Cognition and Cognitive Neuroscience
- * Minor: Graduate Quantitative Methods
- * Lisa M. Quesenberry Foundation Scholarship, Vanderbilt University, 2016
- * IU Young Scientist Award from the Society for Mathematical Psychology, 2016
- * The William F. Hodges Teaching Assistant Award, Vanderbilt University, 2015 
+* **2012-08 - 2018-05, Ph.D. of Psychology, Vanderbilt University**
+  * Major: Cognition and Cognitive Neuroscience
+  * Minor: Graduate Quantitative Methods
+  * Lisa M. Quesenberry Foundation Scholarship, Vanderbilt University, 2016
+  * IU Young Scientist Award from the Society for Mathematical Psychology, 2016
+  * The William F. Hodges Teaching Assistant Award, Vanderbilt University, 2015 
 
-* 2008-08 - 2012-07, B.S. of Psychology, Peking University
- * Pivot of Excellent Student of Peking University, 2009
- * Scholarship for Excellent Freshman by Peking University, 2008 
+* **2008-08 - 2012-07, B.S. of Psychology, Peking University**
+  * Pivot of Excellent Student of Peking University, 2009
+  * Scholarship for Excellent Freshman by Peking University, 2008 
 
 Publications
 ========
