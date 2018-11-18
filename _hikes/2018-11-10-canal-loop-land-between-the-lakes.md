@@ -10,6 +10,8 @@ location: "Grand Rivers, KY"
 
 A great late Fall hike. The sunshine was just perfect. Lots of newly fallen leaves on the ground. I loved the crushing sound when stepping on the leaves. We also saw bisons and turkeys at the Elk & Bison Prairie. They were pretty chill ╰⋃╯
 
+See below for some photos I took along the trail. See more photos at my [instagram](https://www.instagram.com/p/BqD8SLznFHD/?utm_source=ig_web_button_share_sheet).
+
 ![Bison](/images/lbl_bison.JPG)
 
 ![Turkey](/images/lbl_turkey.JPG)
@@ -20,4 +22,4 @@ A great late Fall hike. The sunshine was just perfect. Lots of newly fallen leav
 
 ![Sunshine through the yellow leaves](/images/lbl_yellow.JPG)
 
-See more photos at my [instagram](https://www.instagram.com/p/BqD8SLznFHD/?utm_source=ig_web_button_share_sheet).
+
