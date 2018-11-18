@@ -27,7 +27,7 @@ Experience
   * Served as teaching assistant in courses such as Statistical Analysis, Quantitative Methods, and Experimental Design. 
   * Invited to lecture on topics such as psychometric modeling, cognitive modeling, programming web-based experiments, college teaching etc. 
 
-* 2010-08 - 2012-07, **Research and Teaching Assistant, Peking University**
+* **2010-08 - 2012-07, Research and Teaching Assistant, Peking University**
   * Studied perception, specifically face adaptation (authored 1 paper) and perceptual learning, using Matlab and SPSS.
   * Teaching assistant in Signal Detection Theory.
   * Residential Assistant/Adviser in PKU-Yale Joint Program.
