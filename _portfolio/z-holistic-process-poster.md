@@ -1,6 +1,6 @@
 ---
 title: "The perception of a face can be greater than the sum of its parts"
-excerpt: "We quantified holistic processing in faces with different configural information, used R and Matlab.<br/><img src='/images/APCVposter.jpg' width="430px" height="200px">"
+excerpt: "We quantified holistic processing in faces with different configural information, used R and Matlab.<br/><img src='/images/APCVposter.jpg' width="30%" height="30%">"
 collection: portfolio
 ---
 
