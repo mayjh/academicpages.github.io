@@ -12,4 +12,3 @@ In this review, we first examine the potential sources of individual differences
 
 [Download paper here](https://drive.google.com/file/d/0ByWLjGvnG6aHcmJnQkUyZ1I5Q3c/view)
 
-Recommended citation: Shen, J., & Palmeri, T.J. (2016). &quot;Modeling individual differences in visual categorization.&quot; <i>Visual Cognition, 24</i>, 260-283. doi:10.1080/13506285.2016.1236053
