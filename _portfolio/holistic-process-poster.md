@@ -1,6 +1,6 @@
 ---
 title: "The perception of a face can be greater than the sum of its parts (with Dr. Thomas J. Palmeri)"
-excerpt: "<br/><img src='/images/APCVposter.pdf' height="200px" width="430px">"
+excerpt: "<br/><img src='/images/APCVposter.pdf'>"
 collection: portfolio
 ---
 
