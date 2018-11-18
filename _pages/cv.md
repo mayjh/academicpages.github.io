@@ -22,18 +22,18 @@ Experience
  * Lead local meetups and kaggle groups , including the Greater Nashville Healthcare Analytics meetup and the Data Science Nashville meetup. 
 
 * 2012-08 - 2017-08, **Research and Teaching Assistant**
- * Vanderbilt University 
- * Model the mechanisms of individual differences in visual categorization, using JavaScript, CSS, Html, MySQL, R, JAGS, Python, and STAN.
- * Developed and evaluated the Vanderbilt Bird Expertise Test using the Item Response Theory, used JavaScript, CSS, Html, MySQL, R, and JAGS.
- * Authored 7 methodological and substantive papers (2 in revision, 1 manuscript), and 6 conference abstracts.
- * Served as teaching assistant in courses such as Statistical Analysis, Quantitative Methods, and Experimental Design. 
- * Invited to lecture on topics such as psychometric modeling, cognitive modeling, programming web-based experiments, college teaching etc. 
+  * Vanderbilt University 
+  * Model the mechanisms of individual differences in visual categorization, using JavaScript, CSS, Html, MySQL, R, JAGS, Python, and STAN.
+  * Developed and evaluated the Vanderbilt Bird Expertise Test using the Item Response Theory, used JavaScript, CSS, Html, MySQL, R, and JAGS.
+  * Authored 7 methodological and substantive papers (2 in revision, 1 manuscript), and 6 conference abstracts.
+  * Served as teaching assistant in courses such as Statistical Analysis, Quantitative Methods, and Experimental Design. 
+  * Invited to lecture on topics such as psychometric modeling, cognitive modeling, programming web-based experiments, college teaching etc. 
 
 * 2010-08 - 2012-07, **Research and Teaching Assistant**
- * Peking University
- * Studied perception, specifically face adaptation (authored 1 paper) and perceptual learning, using Matlab and SPSS.
- * Teaching assistant in Signal Detection Theory.
- * Residential Assistant/Adviser in PKU-Yale Joint Program.
+  * Peking University
+  * Studied perception, specifically face adaptation (authored 1 paper) and perceptual learning, using Matlab and SPSS.
+  * Teaching assistant in Signal Detection Theory.
+  * Residential Assistant/Adviser in PKU-Yale Joint Program.
 
 Education
 ========
