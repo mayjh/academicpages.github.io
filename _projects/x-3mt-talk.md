@@ -1,7 +1,7 @@
 ---
 title: "Understanding Real-World Visual Expertise in the Multidimensional Space"
 excerpt: "I participated in the 5th Annual Vanderbilt Three Minute Thesis (3MT) Competition and made it to the final round, during which I presented on my thesis work. <br/><img src='/images/3MT_Shen_2017.jpg'>"
-collection: portfolio
+collection: projects
 ---
 
 <b>The Quest for Visual Expertise</b>
