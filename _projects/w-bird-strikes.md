@@ -1,7 +1,7 @@
 ---
 title: "A Bird's-Eye View of Bird Strikes"
 excerpt: "I analyzed this dataset on Kaggle to gain a bird's eye view of bird strikes."
-collection: projects
+collection: portfolio
 ---
 
 <b>A Bird's-Eye View of Bird Strikes</b>
