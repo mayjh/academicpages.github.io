@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: ""
-permalink: /cv/
+permalink: /resume/
 author_profile: true
 redirect_from:
-  - /resume
+  - /cv
 ---
 
 {% include base_path %}
@@ -18,14 +18,14 @@ Experience
   * Lead projects to develop and operationalize end-to-end interpretable machine learning models to predict outcomes such as opioid overdose and relapse, using R, BigQuery, and Python. Improved both precision and sensitivity by more than 20%.
   * Established standard operating procedures for R&D practices via R packaging.
   * Write papers, blog posts, and conference abstracts to promote company image.
-  * Lead local meetups and kaggle groups , including the Greater Nashville Healthcare Analytics meetup and the Data Science Nashville meetup. 
+  * Lead local meetups and kaggle groups , including the Greater Nashville Healthcare Analytics meetup and the Data Science Nashville meetup.
 
 * **2012-08 - 2017-08, Research and Teaching Assistant, Vanderbilt University**
   * Model the mechanisms of individual differences in visual categorization, using JavaScript, CSS, Html, MySQL, R, JAGS, Python, and STAN.
   * Developed and evaluated the Vanderbilt Bird Expertise Test using the Item Response Theory, used JavaScript, CSS, Html, MySQL, R, and JAGS.
   * Authored 7 methodological and substantive papers (2 in revision, 1 manuscript), and 6 conference abstracts.
-  * Served as teaching assistant in courses such as Statistical Analysis, Quantitative Methods, and Experimental Design. 
-  * Invited to lecture on topics such as psychometric modeling, cognitive modeling, programming web-based experiments, college teaching etc. 
+  * Served as teaching assistant in courses such as Statistical Analysis, Quantitative Methods, and Experimental Design.
+  * Invited to lecture on topics such as psychometric modeling, cognitive modeling, programming web-based experiments, college teaching etc.
 
 * **2010-08 - 2012-07, Research and Teaching Assistant, Peking University**
   * Studied perception, specifically face adaptation (authored 1 paper) and perceptual learning, using Matlab and SPSS.
@@ -40,11 +40,11 @@ Education
   * **Minor:** Graduate Quantitative Methods
   * Lisa M. Quesenberry Foundation Scholarship, Vanderbilt University, 2016
   * IU Young Scientist Award from the Society for Mathematical Psychology, 2016
-  * The William F. Hodges Teaching Assistant Award, Vanderbilt University, 2015 
+  * The William F. Hodges Teaching Assistant Award, Vanderbilt University, 2015
 
 * **2008-08 - 2012-07, B.S. of Psychology, Peking University**
   * Pivot of Excellent Student of Peking University, 2009
-  * Scholarship for Excellent Freshman by Peking University, 2008 
+  * Scholarship for Excellent Freshman by Peking University, 2008
 
 Publications
 ========
