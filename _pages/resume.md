@@ -38,7 +38,7 @@ Education
   * **Major:** Cognition and Cognitive Neuroscience
   * **Minor:** Graduate Quantitative Methods
   * **Thesis:** Understanding Real-World Visual Expertise in the Multidimensional Space
-  * **Adviser:** Thomas J. Palmeri
+  * **Adviser:** Dr. Thomas J. Palmeri
 
 * **2008-08 - 2012-07, B.S. of Psychology, Peking University**
   * **Thesis:** Understanding the Neural Mechanisms of Motion Perceptual Learning
