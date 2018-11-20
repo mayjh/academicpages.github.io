@@ -38,13 +38,12 @@ Education
 * **2012-08 - 2018-05, Ph.D. of Psychology, Vanderbilt University**
   * **Major:** Cognition and Cognitive Neuroscience
   * **Minor:** Graduate Quantitative Methods
-  * Lisa M. Quesenberry Foundation Scholarship, Vanderbilt University, 2016
-  * IU Young Scientist Award from the Society for Mathematical Psychology, 2016
-  * The William F. Hodges Teaching Assistant Award, Vanderbilt University, 2015
+  * **Thesis:** Understanding Real-World Visual Expertise in the Multidimensional Space
+  * **Adviser:** Thomas J. Palmeri
 
 * **2008-08 - 2012-07, B.S. of Psychology, Peking University**
-  * Pivot of Excellent Student of Peking University, 2009
-  * Scholarship for Excellent Freshman by Peking University, 2008
+  * **Thesis:** Understanding the Neural Mechanisms of Motion Perceptual Learning
+  * **Adviser:** Dr. Fang Fang
 
 Publications
 ========
@@ -65,6 +64,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
+
+AWARDS
+========
+
+* 2016, Lisa M. Quesenberry Foundation Scholarship, Vanderbilt University
+* 2016, IU Young Scientist Award from the Society for Mathematical Psychology
+* 2015, The William F. Hodges Teaching Assistant Award, Vanderbilt University
+* 2009, Pivot of Excellent Student of Peking University
+* 2008, Scholarship for Excellent Freshman by Peking University
 
 SKILLS
 ========
