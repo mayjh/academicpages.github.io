@@ -78,6 +78,21 @@ var addressPoints = [
     -81.464906
   ],
   [
+    "Kennedy Space Center, FL, USA",
+    28.573174,
+    -80.648959
+  ],
+  [
+    "La Jolla Cove, San Diego, CA, USA",
+    32.856345,
+    -117.272615
+  ],
+  [
+    "Point Reyes National Seashore, Inverness, CA, USA",
+    37.999095,
+    -123.020380
+  ],
+  [
     "Congaree National Park, Hopkins, SC, USA",
     33.792363,
     -80.768787
@@ -112,6 +127,46 @@ var addressPoints = [
     37.300064,
     -113.027485
   ],
+  [
+    "Mojave National Preserve, Kelso, CA, USA",
+    35.160779,
+    -115.467733
+  ],
+  [
+    "Joshua Tree National Park, Twentynine Palms, CA, USA",
+    33.903290,
+    -115.912682
+  ],
+  [
+    "Pfeiffer Big Sur State Park, Big Sur, CA, USA",
+    36.148377,
+    -121.663434
+  ],
+  [
+    "Point Dume, Malibu, CA, USA",
+    34.010472,
+    -118.805977
+  ],
+  [
+    "Jackson Square, New Orleans, LA, USA",
+    29.957732,
+    -90.062946
+  ],
+  [
+    "Texas State Capitol, Austin, TX, USA",
+    30.274934,
+    -97.740350
+  ],
+  [
+    "Old San Juan, San Juan, Puerto Rico, USA",
+    18.468659,
+    -66.118969
+  ],
+  [
+    "Harrison's Cave, Allen View, Barbados",
+    13.185510,
+    -59.574536
+  ],
 
 
 
@@ -141,5 +196,45 @@ var addressPoints = [
     "泰山, Tai Mountain, Tai'an, Shandong, China",
     36.274077,
     117.105424
+  ],
+  [
+    "拙政园, Humble Administrator's Garden, Suzhou, Jiangsu, China",
+    31.325397,
+    120.629991
+  ],
+  [
+    "世界之窗, Window of the World, Shenzhen, Guangdong, China",
+    22.534967,
+    113.971985
+  ],
+  [
+    "兰州大学, Lanzhou University, Lanzhou, Gansu, China",
+    36.048030,
+    103.858562
+  ],
+  [
+    "都江堰, Dujiangyan Irrigation System, Chengdu, Sichuan, China",
+    31.005468,
+    103.607531
+  ],
+  [
+    "青城山, Qingcheng Mountain, Chengdu, Sichuan, China",
+    30.901442,
+    103.570771
+  ],
+  [
+    "秦始皇帝陵博物院, Mausoleum of the First Qin Emperor, Xi'an, Shanxi, China",
+    34.384425,
+    109.278481
+  ],
+  [
+    "华清池, Huaqing Chi, Xi'an, Shanxi, China",
+    34.361892,
+    109.213052
+  ],
+  [
+    "南京路, Nanjing Road, Shanghai, China",
+    31.235164,
+    121.474916
   ]
 ];
