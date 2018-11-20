@@ -18,7 +18,6 @@ Experience
   * Lead projects to develop and operationalize end-to-end interpretable machine learning models to predict outcomes such as opioid overdose and relapse, using R, BigQuery, and Python. Improved both precision and sensitivity by more than 20%.
   * Established standard operating procedures for R&D practices via R packaging.
   * Write papers, blog posts, and conference abstracts to promote company image.
-  * Lead local meetups and kaggle groups , including the Greater Nashville Healthcare Analytics meetup and the Data Science Nashville meetup.
 
 * **2012-08 - 2017-08, Research and Teaching Assistant, Vanderbilt University**
   * Model the mechanisms of individual differences in visual categorization, using JavaScript, CSS, Html, MySQL, R, JAGS, Python, and STAN.
@@ -65,7 +64,7 @@ Teaching
   {% endfor %}</ul>
 -->
 
-AWARDS
+Awards
 ========
 
 * 2016, Lisa M. Quesenberry Foundation Scholarship, Vanderbilt University
@@ -74,7 +73,7 @@ AWARDS
 * 2009, Pivot of Excellent Student of Peking University
 * 2008, Scholarship for Excellent Freshman by Peking University
 
-SKILLS
+Skills
 ========
 
 * Data Collection and Analysis: R, Matlab, JavaScript, CSS, Html, SAS, Python, SQL
