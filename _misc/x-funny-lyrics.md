@@ -1,6 +1,6 @@
 ---
 title: "Funny misheard lyrics"
-excerpt: "I mishear lyrics pretty frequently and always amuses myself and folks around me. Then one day I thought, well, I might as well keep a log to amuse myself later and hopefully bring some laughter to more folks. Be aware! Bad jokes ahead!"
+excerpt: "I mishear lyrics pretty frequently, which always amuse myself and folks around me. Then one day I thought, well, I might as well keep a log to amuse myself later and hopefully bring some laughter to more folks. Be aware! Bad jokes ahead!"
 collection: misc
 ---
 
