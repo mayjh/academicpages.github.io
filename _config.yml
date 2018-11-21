@@ -247,7 +247,7 @@ defaults:
       path: ""
       type: misc
     values:
-      layout: misc
+      layout: single
       author_profile: true
       share: true
 
