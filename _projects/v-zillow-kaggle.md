@@ -1,5 +1,5 @@
 ---
-title: "Use R iml Package to Improve Zillow's House Price Estimates"
+title: "Using R iml Package to Improve Zillow's House Price Estimates"
 excerpt: "I participated in the Zillow Kaggle project with Jason King and JoAnn Alvarez."
 collection: projects
 ---
