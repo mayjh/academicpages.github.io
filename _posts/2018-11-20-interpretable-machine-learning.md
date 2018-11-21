@@ -22,18 +22,30 @@ These techniques have been actively developed and maintained in various software
 References
 ========
 
-Biecek P. (2018). DALEX: Descriptive mAchine Learning EXplanations. R package version 0.2.4. Retrieved from https://cran.r-project.org/web/packages/DALEX/index.html
+Biecek P. (2018). DALEX: Descriptive mAchine Learning EXplanations. R package version 0.2.4. Retrieved from https://cran.r-project.org/web/packages/DALEX/index.html   
+
 Dastin, J. (2018, October 9). Amazon scraps secret AI recruiting tool that showed bias against women. Reuters, p. 1. Retrieved from https://www.reuters.com
+
 Doshi-Velez, F., & Kim, B. (2017a August). Interpretable machine learning. Talk presented at the International Conference on Machine Learning, Sydney, Australia.
+
 Doshi-Velez, F., & Kim, B. (2017b). Towards a rigorous science of interpretable machine learning. arXiv preprint arXiv:1702.08608.
 Du, M., Liu, N., & Hu, X. (2018). Techniques for Interpretable Machine Learning. arXiv preprint arXiv:1808.00033.
+
 Freitas, A. A. (2014). Comprehensible classification models: a position paper. ACM SIGKDD explorations newsletter, 15(1), 1-10.
 Kramer A., Choudhary P., DataScience.com Team, & contributors. (2018). skater. Python package version 1.1.2. Retrieved from https://pypi.org/project/skater/
+
 Lipton, Z. C. (2017). The Doctor Just Won't Accept That!. arXiv preprint arXiv:1711.08037.
+
 Lundberg, S. M., & Lee, S. I. (2017). A unified approach to interpreting model predictions. In Advances in Neural Information Processing Systems (pp. 4765-4774).
+
 Molnar, C. (2018). Interpretable Machine Learning. A Guide for Making Black Box Models Explainable.
+
 Molnar, C., Casalicchio, G., & Bischl, B. (2018). iml: An R package for Interpretable Machine Learning. The Journal of Open Source Software, 3, 786.
+
 Pedersen T. L. & Benesty M. (2018) lime: Local Interpretable Model-Agnostic Explanations. R package version 0.4.0. Retrieved from ttps://cran.r-project.org/web/packages/lime/index.html
+
 Ribeiro, M. T. (2018) lime. Python package version 0.1.1.32. Retrieved from https://pypi.org/project/lime/
+
 Ribeiro, M. T., Singh, S., & Guestrin, C. (2016, August). Why should i trust you?: Explaining the predictions of any classifier. In Proceedings of the 22nd ACM SIGKDD international conference on knowledge discovery and data mining (pp. 1135-1144). ACM.
+
 Štrumbelj, E., & Kononenko, I. (2014). Explaining prediction models and individual predictions with feature contributions. Knowledge and information systems, 41(3), 647-665.
