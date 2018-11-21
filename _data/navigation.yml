@@ -9,3 +9,6 @@ main:
 
   - title: "Hiking"
     url: /hikes/
+
+  - title: "Miscellaneous"
+    url: /misc/

@@ -181,6 +181,9 @@ collections:
   hikes:
     output: true
     permalink: /:collection/:path/
+  misc:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -236,6 +239,15 @@ defaults:
       type: hikes
     values:
       layout: hike
+      author_profile: true
+      share: true
+
+  # _misc
+  - scope:
+      path: ""
+      type: misc
+    values:
+      layout: misc
       author_profile: true
       share: true
 
