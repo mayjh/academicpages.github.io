@@ -1,6 +1,6 @@
 ---
 title: "Understanding Real-World Visual Expertise in the Multidimensional Space"
-excerpt: "I participated in the 5th Annual Vanderbilt Three Minute Thesis (3MT) Competition and made it to the final round, during which I presented on my thesis work. <br/><img src='/images/3MT_Shen_2017.jpg'>"
+excerpt: "I participated in the 5th Annual Vanderbilt Three Minute Thesis (3MT) Competition and made it to the final round, during which I presented on my thesis work. <br/><img src='/images/3MT_Shen_2017.jpg' alt="Meghan Trainor - Me Too" width="640" height="380" border="10" />"
 collection: projects
 ---
 
