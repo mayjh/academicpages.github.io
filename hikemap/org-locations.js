@@ -21,7 +21,21 @@ var addressPoints = [
   ],
 
 
-
+  [
+    "Fort Morgan, Gulf Shores, AL, USA",
+    30.230359,
+    -88.022494
+  ],
+  [
+    "Gulf State Park, Gulf Shores, AL, USA",
+    30.264831,
+    -87.644254
+  ],
+  [
+    "First White House of the Confederacy, Montgomery, AL, USA",
+    32.376447,
+    -86.299907
+  ],
   [
     "Sulphur Springs, Malgretoute, St. Lucia",
     13.839226,
