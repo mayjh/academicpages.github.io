@@ -37,6 +37,21 @@ var addressPoints = [
     -86.299907
   ],
   [
+    "Clingmans Dome, Forneys Creek, NC, USA",
+    35.563038,
+    -83.498479
+  ],
+  [
+    "Fontana Dam, Robbinsville, NC, USA",
+    35.450236,
+    -83.809060
+  ],
+  [
+    "Ocoee River, Ocoee, TN, USA",
+    35.156027,
+    -84.671434
+  ],
+  [
     "Sulphur Springs, Malgretoute, St. Lucia",
     13.839226,
     -61.047077
