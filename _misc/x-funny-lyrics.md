@@ -24,8 +24,10 @@ collection: misc
 
 **Real Lyric:** Sugar
 
-**Story:** I always hear showgirl instead of sugar no matter how hard I try.
+**Story:** I always hear *showgirl* instead of *sugar* no matter how hard I try.
 
 ¯\_(ツ)_/¯
+
+By the way, the music video is really touching.
 
 <a href="https://www.youtube.com/watch?v=09R8_2nJtjg" target="_blank"><img src="http://img.youtube.com/vi/09R8_2nJtjg/0.jpg" alt="Maroon 5 - Sugar" width="640" height="380" border="10" /></a>
