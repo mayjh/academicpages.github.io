@@ -77,6 +77,10 @@ var addressPoints = [
     -117.109626
   ],
   [
+    "Sequoia National Park, Three Rivers, CA, USA",
+    36.583771, 
+    -118.751442
+  [
     "Las Vegas Strip, Las Vegas, NV, USA",
     36.102853,
     -115.170253
