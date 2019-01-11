@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Quantitative psychologist with 8 years of data experience. Seeking to drive impactful changes. Highly skilled in machine learning, data visualization, experimental design, verbal and written communications.
+Quantitative psychologist with 8 years of data experience. Seeking to drive real-world impact. Highly skilled in machine learning, data visualization, experimental design, verbal and written communications.
 
 Experience
 ========
@@ -70,7 +70,7 @@ Awards
 * 2016, Lisa M. Quesenberry Foundation Scholarship, Vanderbilt University
 * 2016, IU Young Scientist Award from the Society for Mathematical Psychology
 * 2015, The William F. Hodges Teaching Assistant Award, Vanderbilt University
-* 2009, Pivot of Excellent Student of Peking University
+* 2009, National Scholarship, Peking University
 * 2008, Scholarship for Excellent Freshman by Peking University
 
 Skills
