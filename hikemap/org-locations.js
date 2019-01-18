@@ -127,6 +127,11 @@ var addressPoints = [
     -123.020380
   ],
   [
+    "Golden Gate Bridge, San Francisco, CA, USA",
+    37.820191,
+    -122.478234
+  ],
+  [
     "Congaree National Park, Hopkins, SC, USA",
     33.792363,
     -80.768787
