@@ -4,7 +4,7 @@ excerpt: "In this blog piece, I am going to discuss my learnings from the Leetco
 collection: projects
 ---
 
-One of my 2019 goals is to become a better programmer, which means to get a deeper understanding of algorithms. So hey, let's learn through the Leetcode algorithm questions.
+One of my 2019 goals is to become a better programmer, which means to get a deeper understanding of algorithms. So hey, let's get rolling and learn through the Leetcode algorithm questions.
 
 ## 1. Two Sums.
 
@@ -26,8 +26,10 @@ def two_sums(nums, target):
 
 In cases like below, where the target is the sum of two elements with the same value, say 3 + 3 = 6 here. The index of the second 3 would over-write the first 3, so the other number's index would be given as 2, which is correct.
 
-```Python
-nums = [3,2,3] 6
+```
+nums = [3,2,3]
+target = 6
+two_sums( nums, target)
 ```
 
-## 
+##
