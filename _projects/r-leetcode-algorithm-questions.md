@@ -76,6 +76,7 @@ def remove_val(nums, val):
       i = i+1
   return l
 ```
+
 **Edge Cases:**
 ```
 nums = []
@@ -95,3 +96,32 @@ def remove_val(nums, val):
       i = i+1
   return l
 ```
+
+## 35. Search Insert Position
+
+**Approach:**
+1. If we choose brutal force, we can loop through the list, move forward if the current value is greater than the target, stop if the current value is smaller or equal to the target. Let's actually try a fancier trick -- divide and conquer.
+2. Let's look at the entire list, with *l = 0* as the left boundary, *r = len(nums) - 1* as the right boundary, then we can compare the *target* to the number in the middle *nums[m]*, where *m = (l+r) // 2*.
+3. If the *target* is greater than *nums[m]*, then we zoom in to the right half of the list, if the *target* is smaller than *nums[m]*, then we zoom in to the left half of the list, else, we return *m*, which means we found the target, *nums[m] == target**.
+4. Step 3 would be done recursively, and it'd stop when there's at least one gap between *l* and *r*, i.e., *(r - l) > 1*, because if we ever get to adjacent indices, i.e., *(r - l) == 1*, *m* would always evaluate to *l*, leading to a while loop that runs forever.
+5. Once we are out of the while loop, we can now judge the situation and return an index. If the *target* is smaller than or equal to *nums[l]*, then we need to return *l*. Else, if the *target* is smaller than or equal to *nums[r]*, we need to return *r*. Else, we need to return *r+1*.
+
+```
+def search_insert(nums, target):
+  l = 0
+  r = len(nums) - 1
+  while (r - l) > 1:
+    m = (l+r) // 2
+    if target > nums[m]:
+      l = m
+    elif target < nums[m]:
+      r = m
+    else:
+      return m
+  if target <= nums[l]:
+    return l
+  elif target <= nums[r]:
+    return r
+  else:
+    return r+1
+```  
