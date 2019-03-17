@@ -52,6 +52,11 @@ var addressPoints = [
     -84.671434
   ],
   [
+    "Georgia Aquarium, Atlanta, GA, USA",
+    33.764452, 
+    -84.395110
+  ],
+  [
     "Sulphur Springs, Malgretoute, St. Lucia",
     13.839226,
     -61.047077
@@ -135,6 +140,21 @@ var addressPoints = [
     "Congaree National Park, Hopkins, SC, USA",
     33.792363,
     -80.768787
+  ],
+  [
+    "Big South Fork National River and Recreation Area, Oneida, TN, USA",
+    36.426713, 
+    -84.679035
+  ],
+  [
+    "Mammoth Cave National Park, Mammoth Cave, KY, USA",
+    37.190133, 
+    -86.100183
+  ],
+  [
+    "Cumberland Falls State Resort Park, Corbin, KY, USA",
+    36.848346, 
+    -84.346184
   ],
   [
     "Middleton Place Plantation, Charlston, SC, USA",
