@@ -6,7 +6,7 @@ collection: projects
 
 [mlr](https://mlr.mlr-org.com/index.html) is a fairly comprehensive machine learning package in R. Despite the many tutorials out there, I didn't find a handy yet comprehensive one that I can refer to for my common machine learning questions, so I set out to write one.
 
-The report was created using R Markdown and then published to [rpubs.com](https://rpubs.com), a free web publishing service sponsored by RStudio. The image below is a screenshot of the report. Please see the full report below and [here](http://rpubs.com/mayjh/mlr_starter).
+The report was created using R Markdown and then published here and also on [rpubs.com](https://rpubs.com), a free web publishing service sponsored by RStudio. Please see the full report below and [here](http://rpubs.com/mayjh/mlr_starter).
 
 SUMMARY
 =======
@@ -774,5 +774,3 @@ Reference
 ------------------------------------------------------------------------
 
 <https://mlr.mlr-org.com/index.html> [mlr vs. caret](http://philipppro.github.io/2018-11-9-mlr_vs_caret/)
-
-<img src='/images/mlr_report.png'>
