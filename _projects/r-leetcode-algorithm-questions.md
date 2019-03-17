@@ -123,3 +123,55 @@ def search_insert(nums, target):
   else:
     return r+1
 ```  
+
+## 1002. Find Common Characters
+
+**Approach:**  
+
+1. find shared elements
+
+2. count shared elements and save in a dictionary
+
+3. construct the list of elements using the dictionary
+
+```
+class Solution:
+    def commonChars(self, A: List[str]) -> List[str]:
+        
+        # find shared elements
+        l = set(A[0]).intersection(set(A[1]))
+        for i in range(2,len(A)):
+            l = l.intersection(A[i])
+        
+        # use a dictionary to save counts of each shared element
+        d = dict()
+        for l_i in l:
+            d[l_i] = 100
+            for str_i in A:
+                d[l_i] = min(str_i.count(l_i), d[l_i])
+        
+        # construct shared list from the dictionary
+        shared = []
+        for key, value in d.items():
+            while value > 0:
+                shared.append(key)
+                value = value - 1
+        return(shared)   
+```
+
+Below is a really elegant solution from [Leetcode](https://leetcode.com/problems/find-common-characters/discuss/247560/Python-1-line). User *lee215* used the Counter data type.
+
+```
+from collections import Counter
+
+class Solution:
+    def commonChars(self, A: List[str]) -> List[str]:
+        
+        # build counter
+        c = Counter(A[0])
+        for i in range(1,len(A)):
+            c &= Counter(A[i])
+        
+        # unpack and return elements
+        return ( list( c.elements() ) )
+```
