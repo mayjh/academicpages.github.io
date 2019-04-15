@@ -13,7 +13,7 @@ _April 14th 2019_
 Time series forecasting is an important technique that is widely used in business settings such as stock and sales. In this project, I'll use a powerful tool, the autoregressive integrated moving average (ARIMA) model, to forecast the Walmart sales data. 
 
 # Table of contents
-1. [Data Import and Preprocessing](#Data-Import-and-Preprocessing)
+1. [Data Import and Preprocessing](#import)
 
 2. [Data Visualization](#visual)
    
@@ -22,7 +22,7 @@ Time series forecasting is an important technique that is widely used in busines
 4. [Conclusions](#conclusion)
 
 
-## Data Import and Preprocessing <a></a>
+## Data Import and Preprocessing <a name="import"></a>
 
 The data contains historical sales data for 45 Walmart stores located in different regions. Each store contains a number of departments, and the task is to predict the department-wide sales for each store. The data can be downloaded from [Kaggle](https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting).
 
@@ -442,7 +442,7 @@ dat.index
 
 
 
-## Data Visualization <a></a>
+## Data Visualization <a name="visual"></a>
 
 Now that we have some basic understanding of the data, let's plot the sales over time to see the trend.
 
@@ -484,7 +484,7 @@ fig = result.plot()
 
 From the plot above we can clearly see the seasonal component of the data, and we can also see the separated bumpy trend of the data.
 
-## Forecast Model <a></a>
+## Forecast Model <a name="predictive"></a>
 
 Now let's build an ARIMA model to predict sales over time. ARIMA (autoregressive integrated moving average) models, also called Box-Jenkins models, are a class of powerful and popular models to forecast time series data. The ARIMA models may possibly include autoregressive terms, moving average terms, and differencing operations. 
 
@@ -583,6 +583,6 @@ pd.concat([dat,future_forecast],axis=1).plot(figsize=(15, 6),
 
 ![png](/images/output_30_1.png)
 
-## Conclusion <a></a>
+## Conclusion <a name="conclusion"></a>
 
 Voilà! Now we have a forecast model that can predict the sales of the coming weeks. With real-world data, the predictions will almost never be 100% in sync with the data, but we can see that the predictions stay in a reasonable range for off-holiday season sales. We can use the forecast information to optimize staffing and other resources. 
