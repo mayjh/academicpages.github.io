@@ -13,7 +13,7 @@ _April 14th 2019_
 Time series forecasting is an important technique that is widely used in business settings such as stock and sales. In this project, I'll use a powerful tool, the autoregressive integrated moving average (ARIMA) model, to forecast the Walmart sales data. 
 
 # Table of contents
-1. [Data Import and Preprocessing](#introduction)
+1. [Data Import and Preprocessing](#Data-Import-and-Preprocessing)
 
 2. [Data Visualization](#visual)
    
