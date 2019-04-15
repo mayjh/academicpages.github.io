@@ -461,7 +461,7 @@ dat.plot(figsize=(15, 6),title="Walmart Sales in One Department of One Store Feb
 
 
 
-![png](output_19_1.png)
+![png](/images/output_19_1.png)
 
 
 We can see that there are some clear patterns in the data. Through simple eye-balling, there are four spikes in sales around November, December, February, and April.
@@ -479,7 +479,7 @@ fig = result.plot()
 ```
 
 
-![png](output_22_0.png)
+![png](/images/output_22_0.png)
 
 
 From the plot above we can clearly see the seasonal component of the data, and we can also see the separated bumpy trend of the data.
@@ -564,7 +564,7 @@ pd.concat([test,future_forecast],axis=1).plot()
 
 
 
-![png](output_29_1.png)
+![png](/images/output_29_1.png)
 
 
 
@@ -581,7 +581,7 @@ pd.concat([dat,future_forecast],axis=1).plot(figsize=(15, 6),
 
 
 
-![png](output_30_1.png)
+![png](/images/output_30_1.png)
 
 ## Conclusion <a></a>
 
