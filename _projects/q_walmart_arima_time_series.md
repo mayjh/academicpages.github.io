@@ -4,8 +4,6 @@ excerpt: "Time series forecasting is an important technique that is widely used 
 collection: projects
 ---
 
-# Time Series Forecast of Walmart Sales Data
-
 _May Shen, j.shen33@gmail.com_
 
 _April 14th 2019_
