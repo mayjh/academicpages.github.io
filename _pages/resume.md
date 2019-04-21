@@ -14,13 +14,13 @@ Quantitative psychologist with 8 years of data experience. Seeking to drive real
 Experience
 ========
 
-* **2017-10 - present, Research Data Scientist, axialHealthcare**
+* **2017-10 - 2019-04, Research Data Scientist, axialHealthcare**
   * Lead projects to develop and operationalize end-to-end interpretable machine learning models to predict outcomes such as opioid overdose and relapse, using R, BigQuery, and Python. Improved both precision and sensitivity by more than 20%. One patent under filing. 
   * Established standard operating procedures for R&D practices via R packaging.
-  * Write papers, blog posts, and conference abstracts to promote company image.
+  * Wrote papers, blog posts, and conference abstracts to promote company image.
 
 * **2012-08 - 2017-08, Research and Teaching Assistant, Vanderbilt University**
-  * Model the mechanisms of individual differences in visual categorization, using JavaScript, CSS, Html, MySQL, R, JAGS, Python, and STAN.
+  * Modeled the mechanisms of individual differences in visual categorization, using JavaScript, CSS, Html, MySQL, R, JAGS, Python, and STAN.
   * Developed and evaluated the Vanderbilt Bird Expertise Test using the Item Response Theory, used JavaScript, CSS, Html, MySQL, R, and JAGS.
   * Authored 8 methodological and substantive papers (1 in revision, 1 manuscript), and 6 conference abstracts.
   * Served as teaching assistant in courses such as Statistical Analysis, Quantitative Methods, and Experimental Design.
