@@ -22,7 +22,7 @@ Experience
 * **2012-08 - 2017-08, Research and Teaching Assistant, Vanderbilt University**
   * Modeled the mechanisms of individual differences in visual categorization, using JavaScript, CSS, Html, MySQL, R, JAGS, Python, and STAN.
   * Developed and evaluated the Vanderbilt Bird Expertise Test using the Item Response Theory, used JavaScript, CSS, Html, MySQL, R, and JAGS.
-  * Authored 8 methodological and substantive papers (1 in revision, 1 manuscript), and 6 conference abstracts.
+  * Authored 7 methodological and substantive papers (1 in revision, 1 manuscript), and 6 conference abstracts.
   * Served as teaching assistant in courses such as Statistical Analysis, Quantitative Methods, and Experimental Design.
   * Invited to lecture on topics such as psychometric modeling, cognitive modeling, programming web-based experiments, college teaching etc.
 
