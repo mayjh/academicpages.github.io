@@ -3,7 +3,7 @@ title: "Modeling the dynamics of real-world visual expertise."
 collection: publications
 permalink: /publication/manuscript-model-dynamics
 excerpt: 'We modeled the responses in the Speeded Category-Veification Task by participants with varying levels of expertise to understand the dynamics of visual expertise.'
-date: 2019-01-01
+date: 2033-01-01
 venue: ''
 paperurl: ''
 citation: 'Shen J. & Palmeri T. J. (manuscript). Modeling the dynamics of real-world visual expertise. <br>'
