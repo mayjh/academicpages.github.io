@@ -1,5 +1,5 @@
 ---
-title: "Dynamic Multinomial Processing Tree Generalized Linear Mixed Effect Model: An application to intensive polytomous time series eye tracking data."
+title: "Modeling Intensive Polytomous Time-Series Eye-Tracking Data: A Dynamic Tree-Based Item Response Model."
 collection: publications
 permalink: /publication/2020-02-21-dynamic-irtrees
 excerpt: 'A dynamic generalized linear mixed effects model (GLMM) approach to modeling a multinomial processing tree for intensive polytomous time series eye tracking data.'
