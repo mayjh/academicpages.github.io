@@ -15,7 +15,7 @@ Experience
 ========
 
 * **2019-06 - present, Data Scientist, Facebook**
-  * Scale marketing to 10 million + small businesses using data, programming, measurement, and statistics to influence strategy, develop and action insights, and optimize.
+  * Driving social impact by connecting 10 million + small businesses to communities, using data, programming, measurement, and machine learning to develop, influence, and optimize scaled marketing strategy.
   * Initiate and lead projects to use machine learning models, parametric, and non-parametric testings to optimze customer retention strategy.  
   
 * **2017-10 - 2019-04, Research Data Scientist, axialHealthcare**
