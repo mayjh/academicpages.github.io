@@ -9,11 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Quantitative psychologist with 8 years of data experience. Seeking to drive real-world impact. Highly skilled in machine learning, data visualization, experimental design, verbal and written communications.
+Quantitative psychologist driving social impact by connecting small businesses to communities using data insights. Highly skilled in machine learning, data visualization, experimental design, verbal and written communications.
 
 Experience
 ========
 
+* **2019-06 - present, Data Scientist, Facebook**
+  * Scale marketing to 10 million + small businesses using data, programming, measurement, and statistics to influence strategy, develop and action insights, and optimize.
+  * Initiate and lead projects to use machine learning models, parametric, and non-parametric testings to optimze customer retention strategy.  
+  
 * **2017-10 - 2019-04, Research Data Scientist, axialHealthcare**
   * Lead projects to develop and operationalize end-to-end interpretable machine learning models to predict outcomes such as opioid overdose and relapse, using R, BigQuery, and Python. Improved both precision and sensitivity by more than 20%. One patent under filing. 
   * Established standard operating procedures for R&D practices via R packaging.
@@ -91,9 +95,10 @@ Certifications
 
 Service and leadership
 ======
-* Co-organizer, Data Science Nashville Meetup, 2017-present
-* Co-organizer, Greater Nashville Healthcare Analytics Meetup, 2017-present
-* Tutor, Nashville Adult Literacy Council, 2017-present
+* Volunteer marketer for various small businesses and non-profits. 2019-present.
+* Co-organizer, Data Science Nashville Meetup, 2017-2020
+* Co-organizer, Greater Nashville Healthcare Analytics Meetup, 2017-2020
+* Tutor, Nashville Adult Literacy Council, 2017-2020
 * Reviewer, Psychonomic Bulletin & Review, 2017
 * Committee Member, Vanderbilt University Undergraduate Honors Committee, 2017
 * Judge, Vanderbilt University Undergraduate Research Fair, 2016
