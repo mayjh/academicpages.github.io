@@ -26,4 +26,4 @@ because of their strategic weighting of the dimensions, but also because of thei
 bird species. Together, these experimental and modeling work provided insights into the dynamics and representations of expertise, 
 proposing a coherent computational understanding of real-world visual expertise.
 
-[Download paper here](https://drive.google.com/open?id=0ByWLjGvnG6aHMzdqcEV1aVlJMmM)
+[Download paper here](https://drive.google.com/file/d/1VR_-Mcp7cNYW_zTQrtLrYDNY0_OwcEnE/view?usp=sharing)
