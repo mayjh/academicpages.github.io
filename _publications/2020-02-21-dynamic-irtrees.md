@@ -14,4 +14,5 @@ time series eye tracking data. The dynamic multinomial processing tree GLMM was
 illustrated using an experimental study that employed the visual world eye tracking
 technique. 
 
+[Download paper here](https://drive.google.com/file/d/1NSCQnBQ_twaLSJfXjj0ZUwkXz49pz4PM/view?usp=sharing)
 
