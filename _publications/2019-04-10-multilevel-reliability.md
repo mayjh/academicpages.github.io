@@ -10,3 +10,5 @@ citation: 'Cho S.-J., Shen, J., & Naveiras, M. (2019). Multilevel reliability me
 ---
 This paper evaluated multilevel reliability measures in two-level nested designs (e.g., students
 nested within teachers) within a multilevel item response theory (IRT) framework.
+
+[Download paper here](https://drive.google.com/file/d/1Il6CuBiO2jwrcSH7C-gtNW0LMS8UUOu6/view?usp=sharing)
